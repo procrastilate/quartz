@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates"],
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
+        header: "EB Garamond",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
@@ -24,8 +24,8 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          secondary: "#89b08c",
+          tertiary: "#89b08c",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
@@ -34,8 +34,8 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          secondary: "#89b08c",
+          tertiary: "#89b08c",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
       },

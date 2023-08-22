@@ -3,6 +3,7 @@ title: a new era
 tags:
   - blog-post
 draft: false
+date: 2023-08-01
 ---
 
 Some exciting things have happened since I last wrote a blog post, so here's one to describe and reflect on them :)
