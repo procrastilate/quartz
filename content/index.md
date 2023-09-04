@@ -3,7 +3,7 @@ title: the rock garden
 draft: false
 tags: []
 ---
- Welcome to the rock garden! A
+ Welcome to the rock garden! 
  
 ## What is the rock garden?
 
