@@ -1,6 +1,6 @@
 ---
 title: the rock garden
 draft: false
-tags:
+tags: []
 ---
- 
+ Welcome to the rock garden
