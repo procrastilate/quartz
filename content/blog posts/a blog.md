@@ -1,10 +1,9 @@
 ---
-created: 21-08-2023 16:47
-updated: 04-09-2023 15:53
-tags:
-  - blog-post
 Progress:
   - Posted
+tags:
+  - blog-post
+date: 2023-02-13
 ---
 
 > ‘I have no idea what I’m doing, but I’m excited to find out’ is how I would summarise my general thought process right now. It presents a general trend of thinking that I have only really felt in fleeting moments, following one of many small and sudden waves of inspiration about all of the possible things I could do or make.

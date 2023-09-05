@@ -1,13 +1,10 @@
 ---
-tags:
-  - procrastilate
-  - blog-post
-created: 02-08-2023 10:17
-updated: 04-09-2023 15:52
 Progress:
   - Posted
+tags:
+  - blog-post
+date: 2023-03-29
 ---
-
 Some exciting things have happened since I last wrote a blog post, so here's one to describe and reflect on them :)
 
 After a long and continually uncertain four years, I have finished university. The whole thing has been pretty anticlimactic unfortunately, but I'm relieved that it's over. It's now a case of waiting to see if it all paid off - a moment my subconscious is hell-bent on playing out. I was woken this morning out of a dream in which my dissertation supervisor told me I'd failed and said my cross sections really let me down. I've come a long way in trying not to think about what ifs and worst case scenarios, but it seems that hasn't extended to my sleep, so I think we'll just have to ride it out until my results are released on the 14th of August.
