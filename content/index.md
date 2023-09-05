@@ -1,5 +1,5 @@
 ---
-title: hello :-)
+title: the rock garden
 date: 2023-01-01
 ---
 ### welcome to the rock garden!
